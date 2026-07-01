@@ -1,4 +1,4 @@
-package CoreJDKAPIs.firstPart;
+package com.example.demo.CoreJDKAPIs.firstPart;
 
 public class ShallowCopy {
     public static void main(String[] args) {

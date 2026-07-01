@@ -1,4 +1,4 @@
-package CoreJDKAPIs.secondPart;
+package com.example.demo.CoreJDKAPIs.secondPart;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

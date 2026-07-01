@@ -1,4 +1,4 @@
-package CoreJDKAPIs.secondPart;
+package com.example.demo.CoreJDKAPIs.secondPart;
 
 public class Person {
     private String name;

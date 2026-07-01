@@ -1,4 +1,4 @@
-package CoreJDKAPIs.secondPart;
+package com.example.demo.CoreJDKAPIs.secondPart;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

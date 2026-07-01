@@ -1,4 +1,4 @@
-package CoreJDKAPIs.firstPart;
+package com.example.demo.CoreJDKAPIs.firstPart;
 
 import java.io.IOException;
 
